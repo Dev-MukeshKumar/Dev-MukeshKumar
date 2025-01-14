@@ -6,11 +6,14 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,react,redux,cs,dotnet,postgres,visualstudio,postman,vscode,html,css,git,docker,scala,cassandra,angular,redis&perline=9" />
     </a>
-    <span>
-        <img alt="ApacheSpark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
-    </span>
-    <span>
-        <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
+    <div>
+        <span>
+            <img alt="ApacheSpark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
+        </span>
+        <span>
+            <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        </span>
+    </div>
 </div>
 
 <h3 align="left">My Repos speaks in</h3>
